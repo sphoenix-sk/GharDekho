@@ -1,3 +1,3 @@
 # RentalAPP
 
-Link - rental-app-pink.vercel.app
+Link - https://rental-app-pink.vercel.app/
